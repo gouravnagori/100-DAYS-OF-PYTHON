@@ -1,0 +1,18 @@
+The pip command
+
+It can be used as a package manager pip to install a python module. Lets install a
+module called pandas using the following command
+
+pip install pandas
+
+Using a module in Python(Usage)
+
+We use the import syntax to import a module in Python. Here is an example code:
+
+import pandas
+
+# Read and work with a file named 'words.csv'
+pandas.read_csv('words.csv' )
+
+Similarly we can install other modules and look into their documentations for usage
+instructions. We will find ourselved doing this often in the later part of this course
