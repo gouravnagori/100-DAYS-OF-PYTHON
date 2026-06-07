@@ -1,0 +1,6 @@
+loops in python
+
+Sometimes a programmer wants to execute a group of statements a
+certain number of times. This can be done using loops. Based on this
+loops are further classified into following types; 
+for loop, while loop,nested loops.
