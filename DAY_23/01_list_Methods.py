@@ -46,7 +46,7 @@ print(copy_list)
 copy_list[0] = 10
 print(copy_list)
 print(l3)
-#Because lists are immutable
+
 
 
 l4=[2,1,2,34,3,26,3,6,6]
