@@ -11,7 +11,7 @@ class CustomError(Exception):
     pass
 
     # try:
-        # code
+         # code
 
     # except CustomError:
         
@@ -21,5 +21,5 @@ class CustomError(Exception):
 
 # This is useful because sometimes we might want to do
 # something when a particular exception is raised. For
-# example, sending an error report to the admin, calling
+# example, sending an error report to the admin and calling
 # an api, etc.
