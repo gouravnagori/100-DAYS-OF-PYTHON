@@ -4,7 +4,7 @@
 # Go to: https://newsapi.org/
 # and explore the various options
 # to build you application
-
+# Easy que for me
 import requests
 
 API_KEY = "# Replace with your NewsAPI key"  
