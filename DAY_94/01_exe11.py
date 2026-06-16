@@ -19,7 +19,7 @@ while True:
     timeout=5 # Notification stays for 10 seconds
     )
     time.sleep(3600)
-    
+    print('\n')
 
       
     
