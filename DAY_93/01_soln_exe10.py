@@ -1,6 +1,8 @@
 import requests
 
+
 API_KEY = "# Replace with your NewsAPI key"  
+#or you can add harry's api  
 
 topic = input("Enter a topic: ")
 
