@@ -8,7 +8,7 @@ def fx(n):
     time.sleep(3)
     # complex computation
     return (n*89) - 37 + n
-
+print('\n')
 print(fx(3))
 print(fx(1))
 print(fx(1))
