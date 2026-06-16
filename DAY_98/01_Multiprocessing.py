@@ -8,7 +8,7 @@ def downloadFile(url, name):
   print(f"Finished Downloading {name}")
  
 
-
+DAY 99 is complete
 url = "https://picsum.photos/2000/3000"
 # pros = []
 # for i in range(50):
