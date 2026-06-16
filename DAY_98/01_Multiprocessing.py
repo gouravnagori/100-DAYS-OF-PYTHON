@@ -6,9 +6,8 @@ def downloadFile(url, name):
   response = requests.get(url)
   open(f"files/file{name}.jpg", "wb").write(response.content)
   print(f"Finished Downloading {name}")
- 
 
-DAY 99 is complete
+print('\n')
 url = "https://picsum.photos/2000/3000"
 # pros = []
 # for i in range(50):
