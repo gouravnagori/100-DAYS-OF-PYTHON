@@ -4,7 +4,7 @@ import time
 def fun(second):
     print("you have to wait for",second,'second')
     time.sleep(second)
-
+print('\n')
 time1 = time.perf_counter()
 # normal code
 # fun(2)    
