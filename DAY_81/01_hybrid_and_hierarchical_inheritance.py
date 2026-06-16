@@ -28,7 +28,7 @@ class D3(D1):
 #            company
 #              |
 #   ------------------------ 
-#   |                      |
+#   |                       |
 #  manager1             manager2
 #   |   |                |    |
 #  e1   e2               e1   e2
