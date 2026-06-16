@@ -14,7 +14,7 @@ print(v1)
 
 v2 = Vector(4,0,2)
 print(v2)    
-
+print('\n)
 print(v1 + v2)
 print(type(v1 + v2))
 
